@@ -9,9 +9,15 @@
   Marks videos as watched · Bypasses knowledge checks · Instantly solves assessments via GraphQL exploits.
 </p>
 
-<p> NOTE :</p>
-<p> This extension works on all "SKILLSOFT" services not just limited to the one i specifically made it for </p>
-
+<div align="center">
+  <table width="80%">
+    <tr>
+      <td align="center">
+        <b>💡 Note:</b> This extension works on <b>all Skillsoft services</b>, not just the specific one it was made for.
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <a href="https://github.com/np4abdou1/percipio-stonks"><img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version"></a>
